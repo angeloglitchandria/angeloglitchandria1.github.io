@@ -13,4 +13,3 @@ He is developing a project about the ways in which videogames can decenter the p
 He is interested in the themes of irony, agency and systemic design and how videogames leverage an aesthetics of friction to promote rich experiences for players beyond mere fun and entertainment. 
 
 His works have appeared on Games and Culture, Eludamos and forthcoming in _Scholar's Codex_, a book on academics' perspectives about Soulslike games, published by Tune and Fairweather. 
----
