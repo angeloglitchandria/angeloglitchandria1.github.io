@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-***Angelo M. Andriano*** is a PhD Student at IULM University in the field of the ***Philosophy of Games***, ***Game Studies*** and ***Philosophy of Technology***. 
+**Angelo M. Andriano** is a PhD Student at IULM University in the field of the ***Philosophy of Games***, ***Game Studies*** and ***Philosophy of Technology***. 
 
 He is developing a project about the ways in which videogames can decenter the players to foster systemtic and environmental awareness. 
 
