@@ -6,5 +6,6 @@ permalink: /talk/messina-talk
 venue: "Forms of Embodiment. Messina University"
 date: 2026-05-19
 location: "Messina, Italy. Aula Canizzaro, Piazza Pugliatti, 1."
-link: [Conference page.](https://cospecs.unime.it/it/eventi/forms-embodiment-international-conference)
 ---
+Conference talk delivered with Pietro Conte (Associate Professor at University of Milan).
+[Conference page.](https://cospecs.unime.it/it/eventi/forms-embodiment-international-conference)
