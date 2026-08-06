@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* 2024: Research Fellow
+* 2024: Visiting Student Research
   * Ghent University
-  * Duties includes: Master's Thesis Abroad Research Financed by Milan University
-  * Supervisor: Professor Marco Caracciolo
+  * Duties includes: Research for Master's Thesis Abroad Financed by Milan University
+  * Abroad Supervisor: Professor Marco Caracciolo
 
-* 2022: Research Fellow
+* 2022: Visiting Student Research
   * Sorbonne Université Paris-1
-  * Duties included: Bachelor's Thesis Abroad Research Financed by University of Trento
-  * Supervisor: Professor Max Kistler
+  * Duties included: Research for Bachelor's Thesis Abroad Financed by University of Trento
+  * Abroad Supervisor: Professor Max Kistler
   
 Skills
 ======
