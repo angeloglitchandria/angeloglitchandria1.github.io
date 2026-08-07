@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* 2024: Visiting Student Research
+* 2024: Visiting Research Student
   * Ghent University
   * Duties: Research for Master's Thesis Abroad Financed by Milan University
   * Abroad Supervisor: Professor Marco Caracciolo
 
-* 2022: Visiting Student Research
+* 2022: Visiting Research Student
   * Sorbonne Université Paris-1
   * Duties: Research for Bachelor's Thesis Abroad Financed by University of Trento
   * Abroad Supervisor: Professor Max Kistler
